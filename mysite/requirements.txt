@@ -1,0 +1,7 @@
+django
+djangorestframework
+environs
+mysqlclient
+
+#The above were all the packages which we need in this project. We need install them at a time using "pip install -r requirements.txt"
+
